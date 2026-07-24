@@ -90,7 +90,7 @@ CAMPAIGN BRIEF
 - **Image direction:** A professional in gym kit checking a watch mid-session with a
   coach spotting — bright, sharp, a sense of focused momentum (not exhaustion).
 
-<img_src=Forge_45Minutes_Express_Strength.png>
+<img src=Forge_45Minutes_Express_Strength.png>
 
 [Forge_45Minutes_Express_Strength.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_45Minutes_Express_Strength.png)
 
