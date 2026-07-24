@@ -97,6 +97,10 @@ CAMPAIGN BRIEF
 
 [Forge_Everyone_Starts.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Everyone_Starts.png)
 
+<img src="<img src="Forge_Everyone_Starts.png">
+
+/Markdown
+
 !([Forge_Everyone_Starts.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Everyone_Starts.png))
 
 *Voice check: passed.*
