@@ -79,6 +79,6 @@ CAMPAIGN BRIEF
 - **Image direction:** A returning member being greeted warmly at the front desk —
   smiles, a bit of relief, natural light. Reunion, not a workout shot.
 
-> Forge_Welcome_Back.png
+{Forge_Welcome_back.png}
 
 *Voice check: passed.*
