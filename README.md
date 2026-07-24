@@ -1,5 +1,3 @@
-# campaign-in-a-box
-Demo AI project
 # Campaign-in-a-Box 📣
 
 **An AI system that turns a one-paragraph brief into a complete, on-brand marketing kit — built and evaluated as a product, not a party trick.**
@@ -88,3 +86,30 @@ campaign-in-a-box/
     └── reflection.md             ← what I learned & what's next
 ```
 
+## Try it yourself in 3 steps
+
+1. Create a Custom GPT (ChatGPT) or Project (Claude).
+2. Paste [`prompts/01-master-system-prompt.md`](prompts/01-master-system-prompt.md) into
+   the custom instructions, and upload [`prompts/brand-voice-guide.md`](prompts/brand-voice-guide.md)
+   as a knowledge file.
+3. Send it a filled-in [brief](prompts/02-brief-intake-template.md). You'll get a full kit back.
+
+To adapt it to **any other business**, rewrite only the brand voice guide. The engine
+stays the same.
+
+## What this demonstrates
+
+Problem framing · prompt engineering · systems thinking · brand & audience strategy ·
+marketing copywriting · building an evaluation to measure quality · honest self-critique
+([`reflection.md`](docs/reflection.md)) · clear documentation.
+
+## What I'd build next
+
+A neutral second-model judge to remove my own scoring bias, and a real-world A/B test
+reporting an actual metric (email open rate or bookings). Details in
+[`docs/reflection.md`](docs/reflection.md).
+
+---
+
+*Built as a portfolio project. The approach — a voice guide + a constrained prompt
+engine + a measured evaluation — is the transferable part.*
