@@ -21,6 +21,8 @@
 - **Tone:** conversational, like talking to one person, not announcing to a crowd.
 - **CTA style:** soft — "Come and see", "Book your free intro", "Say hi".
 
+{CTA = Call To Action}
+
 ## Email
 
 - **Subject line:** ≤ 50 characters, no clickbait, no ALL CAPS, no "RE:" tricks.
