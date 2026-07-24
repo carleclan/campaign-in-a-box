@@ -91,7 +91,7 @@ CAMPAIGN BRIEF
 
 
 
-<img src="Forge_Welcome_back.png">
+<img src="/images/Forge_Welcome_back.png">
 
 [Forge_Welcome_back.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Welcome_back.png)
 
