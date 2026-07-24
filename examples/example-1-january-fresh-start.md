@@ -97,6 +97,6 @@ CAMPAIGN BRIEF
 
 [Forge_Everyone_Starts.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Everyone_Starts.png)
 
-!([https://example.com/screenshot.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Everyone_Starts.png))
+!([Forge_Everyone_Starts.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Everyone_Starts.png))
 
 *Voice check: passed.*
