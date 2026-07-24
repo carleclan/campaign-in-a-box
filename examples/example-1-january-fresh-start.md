@@ -95,4 +95,6 @@ CAMPAIGN BRIEF
 - **Image direction:** A real-looking first-timer (not a model, not mid-flex) laughing
   with a coach beside a squat rack — warm daylight, welcoming, unposed.
 
+[Forge_Everyone_Starts.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Everyone_Starts.png)
+
 *Voice check: passed.*
