@@ -21,7 +21,7 @@
 - **Tone:** conversational, like talking to one person, not announcing to a crowd.
 - **CTA style:** soft — "Come and see", "Book your free intro", "Say hi".
 
-{CTA = Call To Action}
+> (CTA = Call To Action)
 
 ## Email
 
