@@ -99,5 +99,6 @@ CAMPAIGN BRIEF
 
 <img src="Forge_Everyone_Starts.png">
 
+<img src="/images/Forge_Everyone_Starts.png">
 
 *Voice check: passed.*
