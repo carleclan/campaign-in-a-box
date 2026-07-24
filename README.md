@@ -65,7 +65,7 @@ Three complete campaigns, each generated from a single brief:
 - **[Example 3 — Welcome Back](examples/example-3-welcome-back.md)** —
   guilt-free win-back for lapsed members
 
-  Forge_Everyone_Starts.png
+  [Forge_Everyone_Starts.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Welcome_back.png)
 
 ## Repository map
 
