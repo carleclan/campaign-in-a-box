@@ -39,7 +39,7 @@
    rubric, to remove my own bias.
 2. **A real metric** — run one campaign for a real local gym or club and report an
    actual number (bookings, opens, click-through).
-3. **Expand to a second industry** (a café, a charity) to test whether the system —
+3. **Expand to a second industry**  to test whether the system —
    swap the voice guide, keep the machinery — genuinely generalises.
 4. **A lightweight interface** — a simple form that assembles the brief, so a
    non-technical marketer could run it without touching the prompt.
