@@ -80,6 +80,10 @@ campaign-in-a-box/
 │   ├── example-1-january-fresh-start.md
 │   ├── example-2-express-strength-class.md
 │   └── example-3-welcome-back.md
+├── Images/                     ← Images generated using prompts
+│   ├── example-1-Forge_Everyone_Starts.png
+│   ├── example-2-Forge_45Minutes_express_strength.png
+│   └── example-3-Forge_Welcome_back.png
 ├── evaluation/                   ← proof it works
 │   ├── quality-rubric.md
 │   └── before-after-comparison.md
