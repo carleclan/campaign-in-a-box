@@ -67,6 +67,8 @@ Three complete campaigns, each generated from a single brief:
 
 [Forge_Everyone_Starts.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Everyone_Starts.png)
 
+[Forge_45Minutes_Express_Strength.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_45Minutes_Express_Strength.png)
+
 [Forge_Welcome_back.png](https://github.com/carleclan/campaign-in-a-box/blob/main/examples/Forge_Welcome_back.png)
 
 ## Repository map
