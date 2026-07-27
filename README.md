@@ -1,5 +1,8 @@
 # Campaign-in-a-Box 📣
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/38cd2904-a087-4efc-9367-8e939e6a4928" />
+
+
 **An AI system that turns a one-paragraph brief into a complete, on-brand marketing kit — built and evaluated as a product, not a party trick.**
 
 Most people can get an AI to "write a gym Instagram post". This project is about the
