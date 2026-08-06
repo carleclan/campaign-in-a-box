@@ -18,6 +18,7 @@ industry-agnostic: swap the brand voice file, keep the machinery.
 
 ---
 
+
 ## The problem
 
 A small gym has no budget for an agency and no time to write fresh copy for every
